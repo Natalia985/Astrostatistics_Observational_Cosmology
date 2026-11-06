@@ -29,7 +29,7 @@ Analysis of Type Ia supernova observations using a reference cosmological model.
 
 **Lab 3 – Building a Cosmological Likelihood**
 
-Estimation of the matter density parameter Ωm using Pantheon+ supernova observations and a flat ΛCDM model. The analysis includes likelihood calculations, parameter estimation, and uncertainty analysis.
+Estimation of the matter density parameter $\Omega_m$ using Pantheon+ supernova observations and a flat ΛCDM model. The analysis includes likelihood calculations, parameter estimation, and uncertainty analysis.
 
 **Lab 4 – Bayesian Cosmology**
 
