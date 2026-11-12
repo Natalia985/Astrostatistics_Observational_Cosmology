@@ -36,4 +36,5 @@ Estimation of the matter density parameter $\Omega_m$ using Pantheon+ supernova 
 Bayesian estimation of $\Omega_m$ and $M_B$ using Pantheon+ supernova observations and a flat ΛCDM model. The analysis includes posterior distributions, credible intervals, prior sensitivity, and residual diagnostics.
 
 **Lab 5 – MCMC, Covariance and Nuisance-Parameter Degeneracy**  
+
 Estimation of $\Omega_m$ and MB using Pantheon+ supernova observations, comparing statistical and systematic covariance. The analysis includes MCMC validation against a grid posterior, seed sensitivity, short-chain diagnostics, and the degeneracy between MB and $H_0$.
