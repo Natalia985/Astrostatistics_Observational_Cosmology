@@ -38,3 +38,7 @@ Bayesian estimation of $\Omega_m$ and $M_B$ using Pantheon+ supernova observatio
 **Lab 5 – MCMC, Covariance and Nuisance-Parameter Degeneracy**  
 
 Estimation of $\Omega_m$ and MB using Pantheon+ supernova observations, comparing statistical and systematic covariance. The analysis includes MCMC validation against a grid posterior, seed sensitivity, short-chain diagnostics, and the degeneracy between MB and $H_0$.
+
+**Lab 6 – Robustness to Real Sample Definition**
+
+Analysis of how the inferred $\Omega_m$ and $M_B$ change under different Pantheon+ sample definitions, keeping the model and full statistical and systematic covariance treatment fixed. The exercise includes redshift cuts, an uncertainty cut, survey exclusion, and diagnostic plots to distinguish sample sensitivity from a formal selection correction.
